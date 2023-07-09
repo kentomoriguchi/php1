@@ -33,7 +33,7 @@ fclose($file); // ファイルを閉じる
 <html>
 <head>
 <meta charset="utf-8">
-<title>アンケート集計表</title>
+<title>アンケート表</title>
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
